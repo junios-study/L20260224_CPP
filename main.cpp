@@ -1,14 +1,10 @@
-#include <iostream>
+﻿#include <iostream>
 
 using namespace std;
 
 int main()
 {
-	cout << "Hello World" << endl;
-
-	cout << 3 + 4 << endl;
-
-	cout << 3 * 4 << endl;
-
+	//한글 깨지냐?
+	cout << 2;
 	return 0;
 }
